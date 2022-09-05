@@ -2,6 +2,7 @@
  This is the repository for my Human Language Technologies class portfolio. Created Fall2022
  
 # Portfolio Assignment 0
+ This [assignment](Overview-of-NLP.pdf) allowed me to review historical and modern approaches to NLP while reflecting on what I will be learning in this course.
 # Portfolio Assignment 1
  In [this assignment](Homework1_gvs180000.py), I worked on a program that managed employee data from an obselete file. 
  The problem can be run in the terminal with the command "python3 Homework1_gvs180000.py data/data.csv" 
