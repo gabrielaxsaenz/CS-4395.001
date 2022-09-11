@@ -14,4 +14,4 @@
  when processing text to make a more efficient program.
  
  # Portfolio Assignment 2
-  In [assignment 2](Assignment2_gvs180000.ipynb - Colaboratory.pdf) I worked in Google Colab to demonstrate use of NLTK.
+  In [assignment 2](Assignment2_gvs180000.ipynb%20-%20Colaboratory.pdf) I worked in Google Colab to demonstrate use of NLTK.
