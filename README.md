@@ -12,3 +12,6 @@
  In addition, Python is good for text processing because the dictionary data structure keeps objects well organized.
  Throughout this assignment I learned that Python offers easy to learn and use syntax and structure to its language. Also, I learned how to simplify the functions I use
  when processing text to make a more efficient program.
+ 
+ # Portfolio Assignment 2
+  In [assignment 2](Assignment2_gvs180000.ipynb-Colaboratory.pdf) I worked in Google Colab to demonstrate use of NLTK.
