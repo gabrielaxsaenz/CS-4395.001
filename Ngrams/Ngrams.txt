@@ -1,0 +1,8 @@
+The entire ngrams project is run in two separate programs.
+To complete Program 1 run:
+python program1.py
+You will be prompted for a training data file 3 separate times in the form of:
+"Enter the training file: "
+
+Once program1 has complete, run Program 2 with:
+python program2.py
