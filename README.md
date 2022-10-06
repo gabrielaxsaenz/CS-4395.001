@@ -20,7 +20,7 @@
  This [program](WordGuessGame) showcases a game where players have the chance to guess the individual letters of a word, with blank spaces representing each, until they correctly guess the whole word. During this project I learned to use pos tagging and lexical diversity calculations to analyze tokens from texts.
  
 # WordNet
- In this program I learned to use WordNet and SentiWordNet to determine connections between words, as well as identify collocations.
+ In [this program](gvs180000-Portfolio-WordNet-Colaboratory) I learned to use WordNet and SentiWordNet to determine connections between words, as well as identify collocations.
 
 # Ngrams
  This [project](Ngrams) helped me learn to create unigrams and bigrams of texts. Then, I used english, french, and italian texts of training data to create dictionaries for each unigram or bigrams where they are the key and their count is the value. The dictionaries were then used to build language models to predicts the probabilities of a sentence being each of the 3 languages. 
