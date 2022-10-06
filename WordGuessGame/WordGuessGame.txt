@@ -1,0 +1,2 @@
+Word Guess Game can be run in the terminal by using the command:
+python main.py anat19.txt
