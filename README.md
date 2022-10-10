@@ -24,3 +24,6 @@
 
 # Ngrams
  This [project](Ngrams) helped me learn to create unigrams and bigrams of texts. Then, I used english, french, and italian texts of training data to create dictionaries for each unigram or bigrams where they are the key and their count is the value. The dictionaries were then used to build language models to predicts the probabilities of a sentence being each of the 3 languages. 
+ 
+# WebCrawler
+This [assignment](WebCrawler) taught me about different APIs and techniques used to scrape data off of web pages. The data collected from web pages can target a certain topic and then be used to build a corpora, knowledge base, and even a chat bot.
