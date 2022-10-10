@@ -1,0 +1,2 @@
+Run the program by performing in Terminal:
+python gvs180000-crawler.py 
